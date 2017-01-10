@@ -5,7 +5,7 @@
 
     How my homepage reads RSS feeds and puts them in one place
 
-    :copyright: (c) 2010 by Steven Harms
+    :copyright: (c) 2017 by Molly Wagner
     :license: BSD
 """
 
